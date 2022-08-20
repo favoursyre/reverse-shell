@@ -42,13 +42,13 @@ clientSide(host)
 
 ## Run
 
-You first have to run server.py and then client.py
+You first have to run server.py on the attacker's machine
 
 ```bash
 python server.py
 ```
 
-Then
+and then run client.py on target's machine
 
 ```python
 python client.py
